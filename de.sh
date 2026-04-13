@@ -1,7 +1,7 @@
 #!/bin/sh
 echo Xrostini requires the "toilet" package to run... Make sure it is installed before continuing
 toilet -f mono12 -F gay Xrostini
-echo "By Fox's Den (http://github.com/FoxsDenYT/Xrostini)"
+echo "Created by Lily (http://github.com/sometgirldotonline/Xrostini)"
 echo "Usage:"
 echo "[kde|xfce|lxde|die]"
 echo "kde: runs the kde desktop"
